@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://github.com/brunno26/brunno26/blob/main/imagens/imagem.png" alt="Descrição da imagem" width="80%" style="max-width: 600px;">
+  <img src="https://github.com/brunno26/brunno26/blob/main/imagens/imagem.png" alt="Descrição da imagem" width="100%"/>
 </div>
 
 <br>
 
-<p align="center">
+<p align="right">
   <a href="https://www.linkedin.com/in/bruno-gomes-102a6746/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -42,7 +42,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brunno26/brunno26/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brunno26/brunno26/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/brunno26/brunno26/output/github-contribution-grid-snake.svg" style="width: 100%; max-width: 800px;">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/brunno26/brunno26/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </p>
 
