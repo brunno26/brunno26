@@ -1,10 +1,20 @@
-<div>
-  <img src="https://github.com/brunno26/brunno26/blob/main/imagens/imagem.png" alt="Descrição da imagem" width="100%"/> <br><br>
-  <p align="right"><a href="https://www.linkedin.com/in/bruno-gomes-102a6746/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/brunno26" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://wa.me/5561992664336" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-  </p>
+<div align="center">
+  <img src="https://github.com/brunno26/brunno26/blob/main/imagens/imagem.png" alt="Descrição da imagem" width="80%" style="max-width: 600px;">
 </div>
+
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bruno-gomes-102a6746/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/brunno26" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://wa.me/5561992664336" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
 
 # Seja bem-vindo!
 🚀 Migrando de carreira para Desenvolvimento de Sistemas  
@@ -28,8 +38,11 @@
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
 </p>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brunno26/brunno26/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brunno26/brunno26/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/brunno26/brunno26/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brunno26/brunno26/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brunno26/brunno26/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/brunno26/brunno26/output/github-contribution-grid-snake.svg" style="width: 100%; max-width: 800px;">
+  </picture>
+</p>
+
