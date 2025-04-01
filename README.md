@@ -20,8 +20,7 @@
 # Seja bem-vindo!
 🚀 Migrando de carreira para Desenvolvimento de Sistemas  
 📚 **Cursando**:   
-🎓 Técnico em Desenvolvimento de Sistemas - SENAC  
-💻 Participando do Bootcamp DIO/Claro - Java com Spring Boot
+🎓 Técnico em Desenvolvimento de Sistemas - SENAC 
 
 # Competências
 <div align="center">
